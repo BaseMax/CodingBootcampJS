@@ -2,6 +2,8 @@
 
 Our Coding bootcamp javascript 2020
 
+This held in **8 days**. (Due to the coronavirus, this event was also done online)
+
 ## Members of our Bootcamp
 
 88 members (Mostly from India and canada)
