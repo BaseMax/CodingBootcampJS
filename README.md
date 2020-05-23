@@ -12,8 +12,10 @@ Our Coding bootcamp javascript 2020
 You can add some codes instead of ?????????.
 Answer: The output must be true.
 
+```js
 const x = ?????????;
 console.log(x == 5 && x == 25 && x == 125); // true
+```
 
 Note: Please not search and google it.
 No time limit, anyone can think and try for this.
@@ -21,6 +23,8 @@ No time limit, anyone can think and try for this.
 ----------
 
 Concept: Consider the two functions below. Will they both return the same thing? Why and not?
+
+```js
 function t1()
 {
   return {
@@ -34,11 +38,16 @@ function t2()
       bar: "hello"
   };
 }
+```
+
 Test:
+
+```js
 console.log("t1:");
 console.log(t1());
 console.log("t2:");
 console.log(t2());
+```
 
 ----------
 
@@ -46,27 +55,36 @@ Are you familiar with data type and operators?
 If you think you are a js expert, think about this:
 
 **Question:**What will the code below output? Explain your answer. (guess the output)
+
+```js
 console.log(0.1 + 0.2);
 console.log(0.1 + 0.2 == 0.3);
+```
 
 ----------
 
 **Question:**Write a add method which will work properly when invoked using either syntax below.
+
+```js
 console.log( add(2)(3) );  // Outputs: 5
 console.log( add(4)(6) );  // Outputs: 10
 console.log( add(6)(6) );  // Outputs: 12
+```
 
 ------------
 
 Okay, we go to next step:
 
 **Question:**Write a add method which will work properly when invoked using either syntax below.
+
+```js
 console.log( add(0) );  // Outputs: 0
 console.log( add(2) );  // Outputs: 2
 console.log( add(6) );  // Outputs: 6
 console.log( add(2)(3) );  // Outputs: 5
 console.log( add(4)(6) );  // Outputs: 10
 console.log( add(6)(6) );  // Outputs: 12
+```
 
 -------
 
@@ -74,6 +92,8 @@ But we have to expert in it to be sure of them. So trying... 👍
 
 What about this?
 var cause a different in this case or no?
+
+```js
 const myNumber = '3';
 (function (callback) {
   console.log(myNumber);
@@ -83,10 +103,13 @@ const myNumber = '3';
     console.log(myNumber);
     console.log(myText);
   })
+```
 
 --------
 
 So it will be interest at now:
+
+```js
 const myNumber = '3';
 (function (callback) {
   console.log(myNumber);
@@ -96,12 +119,15 @@ const myNumber = '3';
     console.log(myNumber);
     console.log(myText);
   })
+```
 
 Guess it.
 
 ----------
 
 **Question:**What will the following code output and why?
+
+```js
 var b = 1;
 function outer(){
     var b = 2
@@ -113,10 +139,13 @@ function outer(){
     inner();
 }
 outer();
+```
 
 ------------
 
 **Question:** What will the following code output and why?
+
+```js
 var b = 1;
 function outer(){
      var b = 2
@@ -128,70 +157,93 @@ function outer(){
     inner();
 }
 outer();
+```
 
 ----------
 
 **Question:**Guess output
+
+```js
 console.log(color);
 const color = '#aaa';
+```
 
 ----------
 
 **Question:**Guess output
+
+```js
 console.log(color);
 var color = '#aaa';
+```
 
 ----------
 
 **Question:**Guess output
+
+```js
 console.log(color);
 let color = '#aaa';
+```
 
 ----------
 
 **Question:**Guess output
+
+```js
 function square(a = 4) {
   return a * a;
 }
 console.log( square() );
+```
 
 ----------
 
 
 **Question:**Guess output
+
+```js
 var a=4;
 function square(a = a) {
   return a * a;
 }
 console.log( square() );
 console.log( square(2) );
-
+```
 
 ----------
 
 
 **Question:**Guess output
+
+```js
 let a=4;
 function square(a = a) {
   return a * a;
 }
 console.log( square() );
 console.log( square(2) );
+```
 
 ----------
 
 
 **Question:**Guess output
+
+```js
 const a=4;
 function square(a = a) {
   return a * a;
 }
 console.log( square() );
 console.log( square(2) );
+```
 
 ----------
 
 Question:
+
+```js
 function test(someVal) {
   typeof variable; // first question
   if (someVal) {
@@ -200,22 +252,27 @@ function test(someVal) {
   }
 }
 test(true);
+```
 
 ----------
 
 
 **Question:**What will the code below output to the console and why?
 
+
+```js
 (function(){
   var a = b = 3;
 })();
 console.log("a defined? " + (typeof a !== 'undefined'));
 console.log("b defined? " + (typeof b !== 'undefined'));
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why?
 
+```js
 var myObject = {
     foo: "bar",
     func: function() {
@@ -229,23 +286,30 @@ var myObject = {
     }
 };
 myObject.func();
+```
 
 ----------
 
 **Question:**In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
 Guess order and why?
 
+
+```js
 (function() {
     console.log(1); 
     setTimeout(function(){console.log(2)}, 1000); 
     setTimeout(function(){console.log(3)}, 0); 
     console.log(4);
 })();
+```
 
 ----------
 
 **Question:**Tell output of variables:
+
+```js
 var a = b = 3;
+```
 
 ----------
 
@@ -260,91 +324,129 @@ Test case:
 
 ----------
 
-**Question:**guess the d
+**Question:**guess the `d` value
+
+```js
 var d = {};
 [ 'zebra', 'horse' ].forEach(function(k) {
   d[k] = undefined;
 });
 console.log (d)
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why ?
 
+
+```js
 console.log(1 +  "2" + "2");
+```
 
 ----------
 
 
 **Question:**What will the code below output to the console and why ?
 
+```js
 console.log(1 +  +"2" + "2");
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why ?
 
+
+```js
 console.log(1 +  -"1" + "2");
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why ?
 
+
+```js
 console.log(+"1" +  "1" + "2");
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why ?
 
+
+```js
 console.log( "A" - "B" + "2");
+```
 
 ----------
 
 **Question:**What will the code below output to the console and why ?
 
+
+```js
 console.log( "A" - "B" + 2);
+```
 
 ----------
 
 
 **Question:**What will be the output of the following code:
 
+
+```js
 for (var i = 0; i < 5; i++) {
   setTimeout(function() { console.log(i); }, i * 1000 );
 }
+```
 
 ----------
 
 
 **Question:**What is the output out of the following code? Explain your answer.
+
+```js
 var a={},
     b={key:'b'},
     c={key:'c'};
 a[b]=123;
 a[c]=456;
 console.log(a[b]);
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 console.log( + "***" );
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 console.log(- "***" );
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 console.log( new Number(5) == 5);
 console.log( new Number(5) == 5 == "5");
 console.log( new Number(5) == 5 == "5" == new Number(6));
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 console.log( new Number(5) === 5);
+```
 
 ----------
 
