@@ -8,7 +8,7 @@ Our Coding bootcamp javascript 2020
 
 ----------
 
-**Question:**Try to fill in the blanks. (Without any changes)
+**Question:** Try to fill in the blanks. (Without any changes)
 You can add some codes instead of ?????????.
 Answer: The output must be true.
 
@@ -54,7 +54,7 @@ console.log(t2());
 Are you familiar with data type and operators?
 If you think you are a js expert, think about this:
 
-**Question:**What will the code below output? Explain your answer. (guess the output)
+**Question:** What will the code below output? Explain your answer. (guess the output)
 
 ```js
 console.log(0.1 + 0.2);
@@ -63,7 +63,7 @@ console.log(0.1 + 0.2 == 0.3);
 
 ----------
 
-**Question:**Write a add method which will work properly when invoked using either syntax below.
+**Question:** Write a add method which will work properly when invoked using either syntax below.
 
 ```js
 console.log( add(2)(3) );  // Outputs: 5
@@ -75,7 +75,7 @@ console.log( add(6)(6) );  // Outputs: 12
 
 Okay, we go to next step:
 
-**Question:**Write a add method which will work properly when invoked using either syntax below.
+**Question:** Write a add method which will work properly when invoked using either syntax below.
 
 ```js
 console.log( add(0) );  // Outputs: 0
@@ -125,7 +125,7 @@ Guess it.
 
 ----------
 
-**Question:**What will the following code output and why?
+**Question:** What will the following code output and why?
 
 ```js
 var b = 1;
@@ -161,7 +161,7 @@ outer();
 
 ----------
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 console.log(color);
@@ -170,7 +170,7 @@ const color = '#aaa';
 
 ----------
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 console.log(color);
@@ -179,7 +179,7 @@ var color = '#aaa';
 
 ----------
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 console.log(color);
@@ -188,7 +188,7 @@ let color = '#aaa';
 
 ----------
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 function square(a = 4) {
@@ -200,7 +200,7 @@ console.log( square() );
 ----------
 
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 var a=4;
@@ -214,7 +214,7 @@ console.log( square(2) );
 ----------
 
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 let a=4;
@@ -228,7 +228,7 @@ console.log( square(2) );
 ----------
 
 
-**Question:**Guess output
+**Question:** Guess output
 
 ```js
 const a=4;
@@ -257,7 +257,7 @@ test(true);
 ----------
 
 
-**Question:**What will the code below output to the console and why?
+**Question:** What will the code below output to the console and why?
 
 
 ```js
@@ -270,7 +270,7 @@ console.log("b defined? " + (typeof b !== 'undefined'));
 
 ----------
 
-**Question:**What will the code below output to the console and why?
+**Question:** What will the code below output to the console and why?
 
 ```js
 var myObject = {
@@ -290,7 +290,7 @@ myObject.func();
 
 ----------
 
-**Question:**In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
+**Question:** In what order will the numbers 1-4 be logged to the console when the code below is executed? Why?
 Guess order and why?
 
 
@@ -305,7 +305,7 @@ Guess order and why?
 
 ----------
 
-**Question:**Tell output of variables:
+**Question:** Tell output of variables:
 
 ```js
 var a = b = 3;
@@ -316,7 +316,7 @@ var a = b = 3;
 What's Palindrome?
 A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar. There are also numeric palindromes, including date/time stamps using short digits 11/11/11 11:11 and long digits 02/02/2020. 
 
-**Question:**Write a simple function that returns a boolean indicating whether or not a string is a palindrome.
+**Question:** Write a simple function that returns a boolean indicating whether or not a string is a palindrome.
 
 Test case:
 — level => true
@@ -324,7 +324,7 @@ Test case:
 
 ----------
 
-**Question:**guess the `d` value
+**Question:** guess the `d` value
 
 ```js
 var d = {};
@@ -336,7 +336,7 @@ console.log (d)
 
 ----------
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 
 ```js
@@ -346,7 +346,7 @@ console.log(1 +  "2" + "2");
 ----------
 
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 ```js
 console.log(1 +  +"2" + "2");
@@ -354,7 +354,7 @@ console.log(1 +  +"2" + "2");
 
 ----------
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 
 ```js
@@ -363,7 +363,7 @@ console.log(1 +  -"1" + "2");
 
 ----------
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 
 ```js
@@ -372,7 +372,7 @@ console.log(+"1" +  "1" + "2");
 
 ----------
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 
 ```js
@@ -381,7 +381,7 @@ console.log( "A" - "B" + "2");
 
 ----------
 
-**Question:**What will the code below output to the console and why ?
+**Question:** What will the code below output to the console and why ?
 
 
 ```js
@@ -391,7 +391,7 @@ console.log( "A" - "B" + 2);
 ----------
 
 
-**Question:**What will be the output of the following code:
+**Question:** What will be the output of the following code:
 
 
 ```js
@@ -403,7 +403,7 @@ for (var i = 0; i < 5; i++) {
 ----------
 
 
-**Question:**What is the output out of the following code? Explain your answer.
+**Question:** What is the output out of the following code? Explain your answer.
 
 ```js
 var a={},
@@ -416,7 +416,7 @@ console.log(a[b]);
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 console.log( + "***" );
@@ -424,7 +424,7 @@ console.log( + "***" );
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 console.log(- "***" );
@@ -432,7 +432,7 @@ console.log(- "***" );
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 console.log( new Number(5) == 5);
@@ -442,7 +442,7 @@ console.log( new Number(5) == 5 == "5" == new Number(6));
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 console.log( new Number(5) === 5);
@@ -450,7 +450,7 @@ console.log( new Number(5) === 5);
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 class test {
@@ -462,7 +462,7 @@ g.age
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 #age=45;
@@ -470,11 +470,11 @@ g.age
 
 ----------
 
-**Question:**JavaScript is an OOP scripting language? or no?
+**Question:** JavaScript is an OOP scripting language? or no?
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 p=new Point();
@@ -487,7 +487,7 @@ console.log(p.toString()); //forth answer
 
 ----------
 
-**Question:**guess output
+**Question:** guess output
 
 ```js
 0.1 + "0.2"
