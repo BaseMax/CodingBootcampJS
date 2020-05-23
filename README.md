@@ -451,16 +451,22 @@ console.log( new Number(5) === 5);
 ----------
 
 **Question:**guess output
+
+```js
 class test {
    #age=45;
 }
 g=new test();
 g.age
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 #age=45;
+```
 
 ----------
 
@@ -469,16 +475,21 @@ g.age
 ----------
 
 **Question:**guess output
+
+```js
 p=new Point();
 console.log(p);// first answer
 
 p=new Point(4);// second answer
 console.log(p);// third answer
 console.log(p.toString()); //forth answer
+```
 
 ----------
 
 **Question:**guess output
+
+```js
 0.1 + "0.2"
 "0.1" + 0.2
-
+```
