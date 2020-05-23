@@ -6,83 +6,6 @@ Our Coding bootcamp javascript 2020
 
 88 members (Mostly from India and canada)
 
-- Surya
-- Max Base
-- Prajwal
-- prashant gupta
-- Kalyan
-- Shubham Ganguly
-- Bhavik Chavda
-- mooo
-- Jayakumar
-- Rishabh Kumar
-- Utkarsh Malik (Super)
-- DJANGO
-- Vishal Singh
-- Aswanidutt Addaguduru
-- V
-- Akhil Joshi
-- Gimmy
-- Mohit
-- Siddharth
-- Naman Bhandari
-- Nithish
-- Khalpada Shyamal
-- Deep
-- Anand kumar
-- Prathmesh
-- Yugesh
-- Vijay Kumar
-- Pankaj Tanwar
-- Dhruv
-- Harsh
-- Shivan Sahni
-- B K
-- Aniruddh
-- Jay Parmar
-- Raunaq
-- Keerthan S
-- lucifer
-- International khiladi
-- Nipun
-- Dan
-- Ayush Singh
-- Ashwin Menon
-- Snehashis
-- Henny
-- Saurab
-- Droyder
-- Vinit Raut
-- Rohan Arihant
-- Nitn Bagoriya
-- Aaquib
-- Ayush
-- Praveen Kumar
-- vvp
-- gag
-- Chetan Kharat
-- Dfg
-- Fubuki Shirou
-- Rajeev Sharma
-- Ritesh Mukim CSE'17
-- Arjun
-- suhan
-- Sohail Akhtar
-- Ravi
-- Gaurav
-- Ayush
-- jain sanchit
-- Mrinmay
-- Hrinal Bunkar
-- Subham
-- Nitin CHAURASIA
-- Pranjal Kandhari
-- Ankit Sharma
-- Ebrahimi
-- Ayush
-- A
-- and more...
-
 ## Questions
 
 **Question:** How to find max and min number in an array using reduce method ?
@@ -574,3 +497,84 @@ console.log(p.toString()); //forth answer
 0.1 + "0.2"
 "0.1" + 0.2
 ```
+
+--------
+
+## Members of our Bootcamp
+
+- Surya
+- Max Base
+- Prajwal
+- prashant gupta
+- Kalyan
+- Shubham Ganguly
+- Bhavik Chavda
+- mooo
+- Jayakumar
+- Rishabh Kumar
+- Utkarsh Malik (Super)
+- DJANGO
+- Vishal Singh
+- Aswanidutt Addaguduru
+- V
+- Akhil Joshi
+- Gimmy
+- Mohit
+- Siddharth
+- Naman Bhandari
+- Nithish
+- Khalpada Shyamal
+- Deep
+- Anand kumar
+- Prathmesh
+- Yugesh
+- Vijay Kumar
+- Pankaj Tanwar
+- Dhruv
+- Harsh
+- Shivan Sahni
+- B K
+- Aniruddh
+- Jay Parmar
+- Raunaq
+- Keerthan S
+- lucifer
+- International khiladi
+- Nipun
+- Dan
+- Ayush Singh
+- Ashwin Menon
+- Snehashis
+- Henny
+- Saurab
+- Droyder
+- Vinit Raut
+- Rohan Arihant
+- Nitn Bagoriya
+- Aaquib
+- Ayush
+- Praveen Kumar
+- vvp
+- gag
+- Chetan Kharat
+- Dfg
+- Fubuki Shirou
+- Rajeev Sharma
+- Ritesh Mukim CSE'17
+- Arjun
+- suhan
+- Sohail Akhtar
+- Ravi
+- Gaurav
+- Ayush
+- jain sanchit
+- Mrinmay
+- Hrinal Bunkar
+- Subham
+- Nitin CHAURASIA
+- Pranjal Kandhari
+- Ankit Sharma
+- Ebrahimi
+- Ayush
+- A
+- and more...
