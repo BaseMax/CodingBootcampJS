@@ -323,8 +323,8 @@ A palindrome is a word, number, phrase, or other sequence of characters which re
 **Question:** Write a simple function that returns a boolean indicating whether or not a string is a palindrome.
 
 Test case:
-— level => true
-— levels => false
+- level => true
+- levels => false
 
 ----------
 
