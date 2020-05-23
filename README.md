@@ -2,6 +2,10 @@
 
 Our Coding bootcamp javascript 2020
 
+## Members of our Bootcamp
+
+88 members (Mostly from India and canada)
+
 ## Questions
 
 **Question:** How to find max and min number in an array using reduce method ?
