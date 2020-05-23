@@ -26,7 +26,7 @@ No time limit, anyone can think and try for this.
 
 ----------
 
-Concept: Consider the two functions below. Will they both return the same thing? Why and not?
+**Question:** Consider the two functions below. Will they both return the same thing? Why and not?
 
 ```js
 function t1()
