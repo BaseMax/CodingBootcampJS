@@ -2,7 +2,7 @@
 
 Our Coding bootcamp javascript 2020
 
-This held in **8 days**. (Due to the coronavirus, this event was also done online)
+This held in **10 days**. (Due to the coronavirus, this event was also done online)
 
 ## Members of our Bootcamp
 
